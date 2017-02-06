@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+    <string name="title">Conversion</string>
+    <string name="radio_first">Fahrenheit to Celsius</string>
+    <string name="radio_second">Celsius to Fahrenheit</string>
+    <string name="equal">=</string>
+    <string name="button_convert">Convert</string>
+</resources>
