@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        app:showAsAction="ifRoom"
+        android:title="@string/Info"
+        android:icon="@drawable/ic_action_info"
+        android:id="@+id/infoMenu"
+        android:visible="true"
+        android:enabled="true"
+        android:checkable="true" />
+    <item
+        app:showAsAction="ifRoom"
+        android:title="@string/newnote"
+        android:icon="@drawable/ic_action_newnote"
+        android:id="@+id/newNoteMenu"
+
+        android:visible="true"
+        android:enabled="true"
+        android:checkable="true" />
+</menu>

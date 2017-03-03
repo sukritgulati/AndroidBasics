@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MultiNotes</string>
+    <string name="title">title</string>
+    <string name="time">time</string>
+    <string name="content">content</string>
+    <string name="id">id</string>
+    <string name="title_activity_note_detail">NoteDetailActivity</string>
+    <string name="dialog_string">Your note is note saved. \n Save note </string>
+    <string name="delete_string"> Delete Note </string>
+    <string name="file_name">Note.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="Author">© 2017, Sukrit Gulati</string>
+    <string name="version">Version 1.0</string>
+    <string name="Info">Info</string>
+    <string name="newnote">NewNote</string>
+    <string name="savenote">SaveNote</string>
+</resources>
